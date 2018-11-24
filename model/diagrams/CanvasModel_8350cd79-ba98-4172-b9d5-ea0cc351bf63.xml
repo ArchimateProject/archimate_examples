@@ -247,11 +247,11 @@
       fontColor="#ffffff"
       fillColor="#696969"
       borderColor="#696969"
-      content="Layer">
+      content="Layers">
     <bounds
-        x="-24"
+        x="-36"
         y="12"
-        width="61"
+        width="73"
         height="781"/>
   </children>
   <children
